@@ -1,0 +1,6 @@
+{
+  "name": "PranaPose",
+  "description": "Serene AI Yoga Pose Corrector, Pranayama Breath Resonance & Sattvic Nutrition Sanctuary",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
